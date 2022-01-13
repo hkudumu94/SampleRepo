@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hkudumu\\source\\repos\\DevopsTestProject\\DevopsTestProject.csproj": {}
+    "C:\\Users\\hkudumu\\source\\repos\\SampleRepo\\DevopsTestProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hkudumu\\source\\repos\\DevopsTestProject\\DevopsTestProject.csproj": {
+    "C:\\Users\\hkudumu\\source\\repos\\SampleRepo\\DevopsTestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hkudumu\\source\\repos\\DevopsTestProject\\DevopsTestProject.csproj",
+        "projectUniqueName": "C:\\Users\\hkudumu\\source\\repos\\SampleRepo\\DevopsTestProject.csproj",
         "projectName": "DevopsTestProject",
-        "projectPath": "C:\\Users\\hkudumu\\source\\repos\\DevopsTestProject\\DevopsTestProject.csproj",
+        "projectPath": "C:\\Users\\hkudumu\\source\\repos\\SampleRepo\\DevopsTestProject.csproj",
         "packagesPath": "C:\\Users\\hkudumu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hkudumu\\source\\repos\\DevopsTestProject\\obj\\",
+        "outputPath": "C:\\Users\\hkudumu\\source\\repos\\SampleRepo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dNYxN7wgI60chzXJxzhnEhsqEaLNqTUhBnOQR4oStF7ZQErNDVaL+i6IlO6d4ZjnpC4HdekRgeWS7wISvdEyFw==",
+  "dgSpecHash": "buIQjFQUM6g/pxdrjtWD4dxdC7Oahhku22bBbVvEOM1qyM8/CqEOk50UL9hEHeNqs3q8l71UPfhip2moKjwICg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hkudumu\\source\\repos\\DevopsTestProject\\DevopsTestProject.csproj",
+  "projectFilePath": "C:\\Users\\hkudumu\\source\\repos\\SampleRepo\\DevopsTestProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hkudumu\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\hkudumu\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
